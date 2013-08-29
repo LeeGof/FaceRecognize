@@ -62,6 +62,7 @@
 
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
 {
+    // 判断是哪里单击的，如果是UITableViewCell行单击，则进入采集头像页面
     if ([sender isKindOfClass:[PeopleViewController class]])
     {
         CaptureImagesViewController *destination = segue.destinationViewController;
