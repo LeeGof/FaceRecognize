@@ -421,8 +421,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: UFIDA Software Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: UFIDA Software Co., Ltd";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -437,8 +437,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "B68CF652-C3B1-472F-BDA5-DD6313377406";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B68CF652-C3B1-472F-BDA5-DD6313377406";
+				PROVISIONING_PROFILE = "5A1C6552-A063-40DC-A103-3190E6292C27";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5A1C6552-A063-40DC-A103-3190E6292C27";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -454,8 +454,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: UFIDA Software Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: UFIDA Software Co., Ltd";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -463,8 +463,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "B68CF652-C3B1-472F-BDA5-DD6313377406";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B68CF652-C3B1-472F-BDA5-DD6313377406";
+				PROVISIONING_PROFILE = "5A1C6552-A063-40DC-A103-3190E6292C27";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5A1C6552-A063-40DC-A103-3190E6292C27";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -473,8 +473,8 @@
 		60D7D0E517CD8EAE00A89E51 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: UFIDA Software Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: UFIDA Software Co., Ltd";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/FaceRecognize\"",
@@ -482,10 +482,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FaceRecognize/FaceRecognize-Prefix.pch";
 				INFOPLIST_FILE = "FaceRecognize/FaceRecognize-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "B68CF652-C3B1-472F-BDA5-DD6313377406";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B68CF652-C3B1-472F-BDA5-DD6313377406";
+				PROVISIONING_PROFILE = "5A1C6552-A063-40DC-A103-3190E6292C27";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5A1C6552-A063-40DC-A103-3190E6292C27";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -493,8 +493,8 @@
 		60D7D0E617CD8EAE00A89E51 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: sun zhenhai (RY3G2CZ2MS)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: UFIDA Software Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: UFIDA Software Co., Ltd";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/FaceRecognize\"",
@@ -502,10 +502,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FaceRecognize/FaceRecognize-Prefix.pch";
 				INFOPLIST_FILE = "FaceRecognize/FaceRecognize-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "B68CF652-C3B1-472F-BDA5-DD6313377406";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B68CF652-C3B1-472F-BDA5-DD6313377406";
+				PROVISIONING_PROFILE = "5A1C6552-A063-40DC-A103-3190E6292C27";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5A1C6552-A063-40DC-A103-3190E6292C27";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -529,6 +529,7 @@
 				60D7D0E617CD8EAE00A89E51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
